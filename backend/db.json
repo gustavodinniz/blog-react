@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "name": "LEONARDO BARROS",
+      "email": "EAD para Empresas: Será que Vale a Pena Abraçar Essa Proposta?",
+      "post": "O EAD para empresas nada mais é do que uma forma de treinar e capacitar os funcionários de uma organização a distância. Esse método permite que os processos de desenvolvimento e de onboarding de uma companhia aconteçam no ambiente virtual.",
+      "id": 2
+    },
+    {
+      "name": "LEONARDO BARROS",
+      "email": "Comunicação Interna para Empresas: Entenda as Vantagens e Como Otimizar",
+      "post": "Nas empresas, a comunicação interna tem o objetivo de transmitir informações relevantes entre setores e, posteriormente, aos colaboradores sobre valores da organização, objetivos, feedbacks, estratégias e outras questões importantes para o time.",
+      "id": 3
+    },
+    {
+      "name": "LEONARDO BARROS",
+      "email": "O que É Carreira em Y e Quais os Benefícios para a Empresa?",
+      "post": "A carreira em Y dá ao profissional a chance de optar entre um cargo de gestão e o papel de especialista em sua área dentro da empresa. É uma forma flexível de criar um plano de carreira, com vantagens para o funcionário e a organização.",
+      "id": 4
+    },
+    {
+      "name": "LEONARDO BARROS",
+      "email": "Quais São as 6 Ferramentas que Auxiliam na Gestão de Equipe de Seu Negócio?",
+      "post": "Para gerir uma equipe, é fundamental contar com ferramentas que podem facilitar a rotina, como um bom CRM, uma plataforma de chat em grupo e um aplicativo que faça a gestão da jornada de trabalho.",
+      "id": 5
+    },
+    {
+      "name": "LEONARDO BARROS",
+      "email": "Suporte Técnico Remoto: Como Atender a Equipe em Home Office",
+      "post": "A melhor maneira de prestar suporte técnico para a sua equipe em home office é contando com um atendimento remoto, no caso de softwares, e transportadoras de confiança quando se trata de hardwares.",
+      "id": 6
+    },
+    {
+      "name": "LEONARDO BARROS",
+      "email": "Teste QUATI: o Que É e Como Aplicar no Processo de Seleção",
+      "post": "O teste QUATI determina o perfil psicológico de indivíduos e pode ser utilizado como ferramenta de gestão ou para a contratação de colaboradores, oferecendo objetividade ao tomar decisões.",
+      "id": 7
+    }
+  ]
+}
